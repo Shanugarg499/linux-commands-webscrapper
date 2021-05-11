@@ -9,3 +9,18 @@ Here i webscrapped : https://phoenixnap.com/kb/linux-commands-cheat-sheet and di
 
 # commandNumber taskThatCanBePerformed
 # (and command in next line) Command
+
+Because it's a basic webscrapper, i displayed scraped info in terminal as :
+
+Img1 :
+![](imagesofwebscapper/img1.PNG)
+
+Img2 :
+![](imagesofwebscapper/img2.PNG)
+
+Img3 :
+![](imagesofwebscapper/img3.PNG)
+
+Img4 :
+![](imagesofwebscapper/img4.PNG)
+
